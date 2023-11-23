@@ -1,0 +1,8 @@
+
+# Verwendete Header
+
+## ArduinoJSON
+ 
+ArduinoJSON besteht "nur" aus einem riesigen Header-File. Die Dokumentation, inklusive eines Links zum Download findet sich [hier](https://arduinojson.org/v6/doc/installation/)  
+
+User_Setup.h beinhaltet die Einstellungen für TFT_eSPI. Das hier wird nicht gelesen und ist nur ein Backup für den Fall, dass die User_Setup.h im TFT_eSPI-Ordner beim Update überschrieben wird. 
